@@ -1,0 +1,7 @@
+*.parquet
+*.zip
+__pycache__/
+*.pkl
+.kaggle/
+submission_*.csv
+!submissions/README.md
